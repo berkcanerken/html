@@ -1,2 +1,0 @@
-# html
- maze ke liye
